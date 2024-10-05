@@ -1,0 +1,13 @@
+{
+  "AppVersion": "1",
+  "Title": "StarLine",
+  "Thumbnail": "",
+  "Preview": "",
+  "Desc": "",
+  "Author": "Ran",
+  "License": "MIT",
+  "Contact": "https://github.com/RanR112/StarLine",
+  "Type": 1,
+  "Arguments": "--audio --pause-event true",
+  "FileName": "index.html"
+}
