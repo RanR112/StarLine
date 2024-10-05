@@ -83,13 +83,13 @@ const mouse = {
 canvas.addEventListener("click", (event) => {
     mouse.x = event.x;
     mouse.y = event.y;
-    for (let i = 0; i < 1; i++) particleArray.push(new Particle());
+    for (let i = 0; i < 2; i++) particleArray.push(new Particle());
 });
 
 canvas.addEventListener("mousemove", (event) => {
     mouse.x = event.x;
     mouse.y = event.y;
-    for (let i = 0; i < 1; i++) particleArray.push(new Particle());
+    for (let i = 0; i < 2; i++) particleArray.push(new Particle());
 });
 
 class Particle {
